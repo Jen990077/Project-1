@@ -2,7 +2,7 @@
 {
 	font-family: "Arial";
 	font-size: 16px;
-	font-color: white;
+	font: white;
 	background: #FF00FF;
 
 }
@@ -49,11 +49,11 @@
 	vertical-align: middle;
 }
 
-.project-1 .me-image
+.project-1 .IMG1779-image
 {
 	display: inline-block;
 	vertical-align: left;
-	border: 2px solid purple;
+	border: 1px solid purple;
 	background-image: url('IMG1779.jpg');
 	background-size: 200px 200px;
 	background-repeat: no-repeat;
