@@ -49,16 +49,16 @@
 	vertical-align: middle;
 }
 
-.project-1 .IMG1779-image
+.project-1 .IMG_1779-image
 {
 	display: inline-block;
-	vertical-align: left;
-	border: 1px solid purple;
-	background-image: url('IMG1779.jpg');
+	vertical-align: middle;
+	border: 2px solid black;
+	background-image: url('IMG_1779.jpg');
 	background-size: 200px 200px;
 	background-repeat: no-repeat;
-	width: 400px;
-	height: 400px;
+	width: 200px;
+	height: 200px;
 	margin-left: 20px;
 }
 
