@@ -32,18 +32,18 @@
 	color:white;
 }
 
-.about-me .IMG_1779-name-text
+.project-1 .IMG_1779-name-text
 {
 	font-weight: bold;
 }
 
-.about-me .IMG_1779-image-with-caption
+.project-1 .IMG_1779-image-with-caption
 {
 	margin-left: 20px;
 	height: 220px;
 }
 
-.about-me .IMG_1779-caption
+.project-1 .IMG_1779-caption
 {
 	width: 300px;
 	display: inline-block;
