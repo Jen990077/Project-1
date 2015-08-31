@@ -32,20 +32,17 @@
 	color:white;
 }
 
-.project-1 .IMG_1779-name-text
-{
-	font-weight: bold;
-}
+
 
 .project-1 .IMG_1779-image-with-caption
 {
 	margin-left: 20px;
-	height: 220px;
+	height: 20px;
 }
 
 .project-1 .IMG_1779-caption
 {
-	width: 300px;
+	width: 100px;
 	display: inline-block;
 	vertical-align: middle;
 }
