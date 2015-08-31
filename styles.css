@@ -52,12 +52,12 @@
 .project-1 .IMG_1779-image
 {
 	display: inline-block;
-	vertical-align: center;
+	vertical-align: left;
 	background-image: url('IMG_1779.jpg');
 	background-size: 200px 200px;
 	background-repeat: no-repeat;
-	width: 400px;
-	height: 400px;
+	width: 500px;
+	height: 500px;
 	margin-left: 20px;
 }
 
