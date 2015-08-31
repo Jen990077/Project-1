@@ -2,7 +2,7 @@
 {
 	font-family: "Arial";
 	font-size: 16px;
-
+	font-color: white;
 	background: #FF00FF;
 
 }
@@ -11,6 +11,7 @@
 {
 	font-family: "Arial";
 	margin: 0;
+  
 }
 
 .project-1  h2, h3
@@ -30,12 +31,12 @@
 	margin-bottom: 20px;
 }
 
-.project-1  .flo-name-text
+.project-1  .me-name-text
 {
 	font-weight: bold;
 }
 
-.project-1  .flo-image-with-caption
+.project-1  .me-image-with-caption
 {
 	margin-right: 20px;
 	height: 220px;
@@ -51,14 +52,14 @@
 .project-1 .me-image
 {
 	display: inline-block;
-	vertical-align: middle;
-	border: 2px solid orange;
-	background-image: url('flo.jpg');
+	vertical-align: left;
+	border: 2px solid purple;
+	background-image: url('IMG1779.jpg');
 	background-size: 200px 200px;
 	background-repeat: no-repeat;
-	width: 200px;
-	height: 200px;
-	margin-right: 20px;
+	width: 400px;
+	height: 400px;
+	margin-left: 20px;
 }
 
 .project-1 .projects
