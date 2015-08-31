@@ -32,18 +32,18 @@
 	color:white;
 }
 
-.project-1  .me-name-text
+.about-me .IMG_1779-name-text
 {
 	font-weight: bold;
 }
 
-.project-1  .me-image-with-caption
+.about-me .IMG_1779-image-with-caption
 {
-	margin-right: 20px;
+	margin-left: 20px;
 	height: 220px;
 }
 
-.project-1  .me-caption
+.about-me .IMG_1779-caption
 {
 	width: 300px;
 	display: inline-block;
@@ -52,14 +52,14 @@
 
 .project-1 .IMG_1779-image
 {
-	display: right;
-	vertical-align: right;
+	display: inline-block;
+	vertical-align: middle;
 	background-image: url('IMG_1779.jpg');
 	background-size: 300px 300px;
 	background-repeat: no-repeat;
 	width: 500px;
 	height: 500px;
-	margin-right: 100px;
+	margin-left: 20px;
 }
 
 .project-1 .projects
