@@ -52,13 +52,13 @@
 .project-1 .IMG_1779-image
 {
 	display: inline-block;
-	vertical-align: left;
+	vertical-align: right;
 	background-image: url('IMG_1779.jpg');
 	background-size: 300px 300px;
 	background-repeat: no-repeat;
 	width: 500px;
 	height: 500px;
-	margin-left: 100px;
+	margin-right: 100px;
 }
 
 .project-1 .projects
