@@ -52,8 +52,7 @@
 .project-1 .IMG_1779-image
 {
 	display: inline-block;
-	vertical-align: left;
-	border: 2px solid black;
+	vertical-align: center;
 	background-image: url('IMG_1779.jpg');
 	background-size: 200px 200px;
 	background-repeat: no-repeat;
