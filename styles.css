@@ -2,8 +2,8 @@
 {
 	font-family: "Arial";
 	font-size: 16px;
-	font: white;
 	background: #FF00FF;
+	color:white;
 
 }
 
@@ -29,6 +29,7 @@
 	width: 575px;
 	margin-top: 20px;
 	margin-bottom: 20px;
+	color:white;
 }
 
 .project-1  .me-name-text
@@ -51,7 +52,7 @@
 
 .project-1 .IMG_1779-image
 {
-	display: inline-block;
+	display: right;
 	vertical-align: right;
 	background-image: url('IMG_1779.jpg');
 	background-size: 300px 300px;
