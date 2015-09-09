@@ -23,6 +23,12 @@
 {
 	font-style: italic;
 	font-weight:bold;
+    width: 200px;
+}
+.list-item-highlight
+{
+	font-weight: bold;
+	color: black;
 }
 
 .project-1 .standard-paragraph
@@ -60,6 +66,7 @@
 	margin-left: 20px;
 }
 
+
 .project-1 .projects
 {
 	display: table;
@@ -80,4 +87,8 @@
 {
 	margin-left: 5px;
 	display: inline-block;
+}
+.onclick{
+	width:450px
+	;
 }
