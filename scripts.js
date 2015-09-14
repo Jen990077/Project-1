@@ -1,14 +1,3 @@
-
-function MouseOverListItem(li)
-{
-	li.className = "list-item-highlight";
-}
-
-function MouseOutListItem(li)
-{
-	li.className = "";
-}
-
 Date.prototype.addDays = function(days)
 {
     var dat = new Date(this.valueOf());
@@ -20,10 +9,22 @@ var dat = new Date();
 
 alert(dat.addDays(0))
 
+  
 
-function showAlert() {
-  alert("In Texas!")
+document.getElementById("States").onmouseover = function() {mouseOver()};
+document.getElementById("States").onmouseout = function() {mouseOut()};
+
+function mouseOver() {
+    document.getElementById("States").style.color = "pink";
 }
+
+function mouseOut() {
+    document.getElementById("States").style.color = "black";
+}
+	
+
+document.getElementById('myClass').onclick = function () { alert ( "In Texas" )};
+
 
 
 
