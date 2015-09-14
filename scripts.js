@@ -23,7 +23,7 @@ function mouseOut() {
 }
 	
 
-document.getElementById('myClass').onclick = function () { alert ( "In Texas" )};
+
 
 
 
