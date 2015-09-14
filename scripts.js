@@ -22,6 +22,8 @@ function mouseOut() {
     document.getElementById("States").style.color = "black";
 }
 	
+document.getElementById('myClass').onclick = function () {
+    alert ( "In Texas" );}
 
 
 
