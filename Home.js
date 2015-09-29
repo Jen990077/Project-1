@@ -12,6 +12,22 @@ $(document).ready(function ()
         cell.css("background-color", isDark ? "navy" : "white");
     }
 });
+$board =(".cell").html();
+if
+ ($(".piece").html()) {
+// The cell has stuff in it
+}
+else
+ {
+// The cell is empty
+}
+
+
+$(".cell").on('click', function () {
+$("piece").removeClass('active');
+$(this).addClass('active');
+
+});
 
 
 
