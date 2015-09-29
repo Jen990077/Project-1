@@ -29,15 +29,15 @@ Home.WireClickEvent = function () {
         $(this)
 
     else if(){
-
+        $(this)
             }
     else if(){
-
+        $(this)
         
     }
     else()
     {
-        
+        $(this)
     }
     });
 }
